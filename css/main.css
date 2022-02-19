@@ -1,0 +1,69 @@
+#search input {
+  font-size: 1rem !important;
+  width: 40rem !important;
+  border-radius: 1rem;
+  padding: 0.4rem;
+}
+
+#search h2 {
+  font-size: 2.5rem !important;
+  margin-bottom: 2rem;
+}
+
+#search {
+  padding: 5rem 0;
+}
+
+/* footer */
+footer{
+	padding: 2rem 0;
+	color: white;
+	background-color: teal;
+}
+
+footer .container h2{
+	font-size: 2rem;
+	font-weight: 500;
+}
+
+.social{
+	display: flex;
+	justify-content: center;
+}
+
+.social li{
+	padding: 1rem;
+}
+.social li a{
+	font-size: 1.4rem;
+	color: white;
+}
+
+/* cards */
+.sectin{
+	padding: 6rem 0;
+}
+
+.sectin .container .row{
+	display: flex;
+	margin: 0 !important;
+	align-content: stretch;
+}
+
+.sectin .container .row .col .card{
+	height: 100% !important;
+}
+
+.sectin .container .row .col{
+	float: none;
+	flex: 1;
+}
+
+/* who we are */
+#whoweare{
+	padding: 4rem 0;
+}
+
+.lead{
+	font-size: 1.2rem;
+}
